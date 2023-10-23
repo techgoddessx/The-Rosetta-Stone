@@ -18,3 +18,37 @@ Check the full video [here](https://www.youtube.com/watch?v=LMMG8d-JjtQ&list=PLl
 | Convenient data structures (list, dict, etc.) | Fast, efficient, powerful (struct, pointers, etc.)  |
 |             Auto memory management            |               Manual memory management              |
 |                      1980s                    |                         1970s                       |
+
+## Similarities​ : 
+- Arithmetic Operators: + - * / % ​
+
+- Comparison Operators: == != < > <= the same​
+
+- Variable naming rules – letter/underscore + numbers/letters/underscores – also case matters​
+
+- While loops – also break and continue in loops​
+
+- Constants similar except for strings and characters and booleans​
+
+- Both have int / float, and char / byte​
+
+  - C has no str, list, or dict​
+
+  - Python has no struct or double
+ 
+## Differences​
+- Boolean operators​
+
+  - and / not / or  versus &&  !  ||​
+
+- C for loops are indeterminant (i.e. no for ... in in C)​
+
+- C has no pre-defined True or False​
+
+- None and NULL are similar concepts but quite different​
+
+- Strings and character arrays are similar concepts but *very* different​
+
+- C has no list, or dict​
+
+- Python has no struct  - float in Python is a C double
