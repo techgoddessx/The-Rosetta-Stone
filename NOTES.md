@@ -11,4 +11,4 @@
 | Convenient data structures (list, dict, etc.) | Fast, efficient, powerful (struct, pointers, etc.)  |
 |             Auto memory management            |               Manual memory management              |
 |                      1980s                    |                         1970s                       |
-| ----------------------------------------------| ----------------------------------------------------|
+
