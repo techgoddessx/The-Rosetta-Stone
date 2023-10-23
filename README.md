@@ -5,3 +5,16 @@ This repository is a collection of practical examples presented by Dr. Chuck Sev
 Whether you're a newcomer to C programming or looking to solidify your Python skills, this repository offers a hands-on approach to comparing the two languages. Explore the code, experiment, and enhance your proficiency in both Python and C.
 
 Check the full video [here](https://www.youtube.com/watch?v=LMMG8d-JjtQ&list=PLlRFEj9H3Oj5NbaFb1b2n8lib01uNPWLa&index=5)
+
+## Dr. Chuck's Python to C Lecture Notes 
+
+- C is the mother tongue of advanced programming languages
+- Python is written in C and deeply influenced by C
+  
+|      Python                                   |        C                                            |
+| ----------------------------------------------| ----------------------------------------------------|
+|             White space is essential          |                 Whitespace ignored                  |
+|               Very object-oriented            |              Not object-oriented at all             |
+| Convenient data structures (list, dict, etc.) | Fast, efficient, powerful (struct, pointers, etc.)  |
+|             Auto memory management            |               Manual memory management              |
+|                      1980s                    |                         1970s                       |
