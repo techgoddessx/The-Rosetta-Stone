@@ -3,7 +3,6 @@
 
 - C is the mother tongue of advanced programming languages
 - Python is written in C and deeply influenced by C
-- 
 |      Python                                   |        C                                            |
 | ----------------------------------------------| ----------------------------------------------------|
 |             White space is essential          |                 Whitespace ignored                  |
